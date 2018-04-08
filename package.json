@@ -1,0 +1,22 @@
+{
+  "name": "mad_js",
+  "version": "1.0.0",
+  "description": "Version Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzshiro/mad_proj.git"
+  },
+  "keywords": [
+    "version"
+  ],
+  "author": "Harrison <harrison.swb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzshiro/mad_proj/issues"
+  },
+  "homepage": "https://github.com/vzshiro/mad_proj#readme"
+}
